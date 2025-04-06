@@ -45,7 +45,7 @@ Size: 1024 records × 14 columns.
   -ROC curve.
   -Feature importance plot.
 
-# Results & Insights
+## Results & Insights
 Top Predictors:
   -Chest pain type (cp): Strongest positive correlation.
   -Maximum heart rate (thalach): Higher values reduce risk.
