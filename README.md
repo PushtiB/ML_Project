@@ -3,7 +3,9 @@
 This project aims to predict the likelihood of heart disease in patients using a Logistic Regression model trained on clinical and demographic data. The model analyzes features such as cholesterol levels, blood pressure, and ECG readings to classify whether a patient is at risk (1) or not (0).
 
 🔹 Problem Type: Binary Classification
+
 🔹 Algorithm: Logistic Regression (Supervised ML)
+
 🔹 Key Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 Dataset
@@ -15,7 +17,7 @@ Categorical: sex, cp (chest pain type), fbs (fasting blood sugar).
 Target: target (0 = no disease, 1 = disease).
 Size: 1024 records × 14 columns.
 
-# Workflow
+## Workflow
 1)Exploratory Data Analysis (EDA)
   -Visualized distributions (histograms, pair plots).
   -Analyzed correlations (heatmap).
